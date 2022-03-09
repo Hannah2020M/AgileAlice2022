@@ -1,0 +1,65 @@
+body{
+    background-color:#660066;
+    color:#cc99ff;
+}
+
+p{
+    color:#ff00ff;
+}
+#AliceAgile-table {
+    width: 100%;
+    display: table;
+    }
+
+#AliceAgile-table-caption{
+    display: table-caption;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    }
+
+#AliceAgile-table-header{
+    display: table-header-group;
+    background-color: gray;
+    font-weight: bold;
+    font-size: 25px;
+    }
+
+.table-header-cell{
+    display: table-cell;
+    padding: 10px;
+    text-align: justify;
+    border-bottom: 1px solid black;
+    }
+
+#AliceAgile-table-body{
+    display: table-row-group;
+    }
+
+.AliceAgile-table-row{
+    display: table-row;
+    }
+
+.table-body-cell{
+    display: table-cell;
+    }
+
+#AliceAgile-table-footer {
+    display: table-footer-group;
+    background-color: gray;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.45);
+    }
+
+
+.table-footer-cell{
+    display: table-cell;
+    padding: 10px;
+    text-align: justify;
+    border-bottom: 1px solid black;
+    }
+
+
+
+
